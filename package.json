@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "crawler": "^1.1.2"
+    "crawler": "^1.1.2",
+    "mongo": "^0.1.0"
   }
 }
